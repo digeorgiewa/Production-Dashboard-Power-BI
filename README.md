@@ -15,3 +15,10 @@ Introduction
 •	Implemented data refresh schedules and automated data updates to ensure the dashboard always displayed the latest information.
 
 •	Increased production with 15 % 
+
+Technologies used:
+SQL Server
+Data Modeling
+Data Cleaning 
+Microsoft Power BI
+DAX
