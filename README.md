@@ -11,7 +11,6 @@ Project status - Complete
 -Integrated data from various sources, including manufacturing systems, SQL databases to create a comprehensive view of production performance.
 
 -Created drill-down capabilities within the dashboard to allow users to explore specific production lines.
-
 -Implemented data refresh schedules and automated data updates to ensure the dashboard always displayed the latest information.
 -Increased production with 15 % 
 
