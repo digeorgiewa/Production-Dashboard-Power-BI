@@ -2,7 +2,7 @@
 
 Project status - Complete
 
-### Introduction
+### **Introduction**
 
 •	Led a project to develop and implement a real-time production TV dashboard using Power BI. 
 
@@ -16,7 +16,7 @@ Project status - Complete
 
 •	Increased production with 15 % 
 
-### Technologies used:
+### **Technologies used:**
 SQL Server
 Data Modeling
 Data Cleaning 
