@@ -1,11 +1,15 @@
 # Production-Dashboard-Power-Bi
 
-
+![Site A](https://github.com/digeorgiewa/Production-Dashboard-Power-BI/assets/100164246/386c01fc-f162-447d-8312-96371bee11e1)
+![Site B](https://github.com/digeorgiewa/Production-Dashboard-Power-BI/assets/100164246/dc345b1a-184d-4062-ac5e-7670a9eaba72)
+![Site C](https://github.com/digeorgiewa/Production-Dashboard-Power-BI/assets/100164246/5d895d76-92f4-4e30-ac7e-9519f6b9a10d)
 
 
 Project status - Complete
 
 ### **Introduction**
+
+Have been created 3 different TV Dashboards for each site in the company tracking their work on a day, week, month, year basis. 
 
 -Led a project to develop and implement a real-time production TV dashboard using Power BI. 
 
