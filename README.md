@@ -1,8 +1,6 @@
 # Production-Dashboard-Power-Bi
 
-![Site A](https://github.com/digeorgiewa/Production-Dashboard-Power-BI/assets/100164246/83e02127-6b69-4cb0-b1dd-87fe339fc6a8)
-![Site B](https://github.com/digeorgiewa/Production-Dashboard-Power-BI/assets/100164246/671aa936-f93e-4b1c-8690-628f39a68448)
-![Site C](https://github.com/digeorgiewa/Production-Dashboard-Power-BI/assets/100164246/3c68e062-40e3-43df-9134-ebf5c65f252a)
+
 
 
 Project status - Complete
